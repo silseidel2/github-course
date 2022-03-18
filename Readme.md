@@ -8,12 +8,4 @@ Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =))
 
 Adorando mexer no Git :)
 
-Outros cursos em: [...
-
-
-
-gsgsgsgàgdmgTEST TEST ..
-
-
-
-gsgsgsgàgdmgTEST TEST ....]
+Outros cursos em: [...]
